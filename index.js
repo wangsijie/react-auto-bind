@@ -9,7 +9,9 @@ const excludedReactMethods = [
 	'componentWillUnmount',
 	'componentDidCatch',
 	'setState',
-	'forceUpdate'
+	'forceUpdate',
+	'getDerivedStateFromProps',
+	'getSnapshotBeforeUpdate'
 ];
 
 module.exports = object => {
