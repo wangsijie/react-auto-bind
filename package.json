@@ -1,5 +1,5 @@
 {
-  "name": "react-auto-bind",
+  "name": "auto-bind-react",
   "version": "1.0.0",
   "description": "Automatically bind methods to their class instance for React",
   "main": "index.js",

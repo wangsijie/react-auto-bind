@@ -1,18 +1,18 @@
-# react-auto-bind
+# auto-bind-react
 
 Automatically bind methods to their class instance for React
 
 ## Install
 
 ```
-npm install react-auto-bind
+npm install auto-bind-react
 ```
 
 ## Usage
 
 ```js
 import React, {Component} from 'react';
-import AutoBind from 'react-auto-bind';
+import AutoBind from 'auto-bind-react';
 
 export default class Hello extends Component {
     constructor() {
